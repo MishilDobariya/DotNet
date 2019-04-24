@@ -1,0 +1,4 @@
+E:\vs project\aspcrud\aspcrud\bin\aspcrud.dll
+E:\vs project\aspcrud\aspcrud\bin\aspcrud.pdb
+E:\vs project\aspcrud\aspcrud\obj\Debug\aspcrud.dll
+E:\vs project\aspcrud\aspcrud\obj\Debug\aspcrud.pdb
