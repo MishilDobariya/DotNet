@@ -1,0 +1,8 @@
+ALTER PROCEDURE ContactDeleteById
+@Id int
+AS
+
+BEGIN 
+	DELETE FROM Contact
+	WHERE Id = @Id
+END

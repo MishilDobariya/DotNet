@@ -1,0 +1,9 @@
+ALTER PROCEDURE ContactViewById
+@Id int
+AS
+
+BEGIN 
+	SELECT * 
+	FROM CONTACT
+	WHERE Id = @Id
+END
